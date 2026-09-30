@@ -1,0 +1,6 @@
+{
+  "name": "MOTO GO",
+  "description": "Aplicativo moderno de moto-táxi para Angola. Chegue rápido, vá seguro com passageiros, motoristas e gestão completa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
